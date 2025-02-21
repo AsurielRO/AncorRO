@@ -124,6 +124,7 @@ Body:
     Name: Ora Ora
     Type: Etc
     Buy: 55000
+    Sell: 5500
     Weight: 200
     Flags:
       BuyingStore: true
@@ -132,6 +133,7 @@ Body:
     Name: Animal Gore
     Type: Etc
     Buy: 450
+    Sell: 45
     Weight: 100
     Flags:
       BuyingStore: true
@@ -140,6 +142,7 @@ Body:
     Name: Hinalle
     Type: Etc
     Buy: 500
+    Sell: 50
     Weight: 10
     Flags:
       BuyingStore: true
@@ -164,6 +167,7 @@ Body:
     Name: Four Leaf Clover
     Type: Etc
     Buy: 80000
+    Sell: 8000
     Weight: 10
     Flags:
       BuyingStore: true
@@ -172,6 +176,7 @@ Body:
     Name: Singing Plant
     Type: Etc
     Buy: 500
+    Sell: 50
     Weight: 10
     Flags:
       BuyingStore: true
@@ -180,6 +185,7 @@ Body:
     Name: Ment
     Type: Etc
     Buy: 500
+    Sell: 50
     Weight: 10
     Flags:
       BuyingStore: true
@@ -188,6 +194,7 @@ Body:
     Name: Izidor
     Type: Etc
     Buy: 500
+    Sell: 50
     Weight: 10
     Flags:
       BuyingStore: true
@@ -196,6 +203,7 @@ Body:
     Name: Illusion Flower
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 10
     Flags:
       BuyingStore: true
@@ -227,7 +235,8 @@ Body:
     AegisName: Emperium
     Name: Emperium
     Type: Etc
-    Buy: 2
+    Buy: 45
+    Sell: 2
     Weight: 1000
     Flags:
       BuyingStore: true
@@ -236,6 +245,7 @@ Body:
     Name: Yellow Gemstone
     Type: Etc
     Buy: 450
+    Sell: 45
     Weight: 1
     Flags:
       BuyingStore: true
@@ -244,6 +254,7 @@ Body:
     Name: Red Gemstone
     Type: Etc
     Buy: 450
+    Sell: 45
     Weight: 1
     Flags:
       BuyingStore: true
@@ -252,6 +263,7 @@ Body:
     Name: Blue Gemstone
     Type: Etc
     Buy: 1500
+    Sell: 150
     Weight: 1
     Flags:
       BuyingStore: true
@@ -260,6 +272,7 @@ Body:
     Name: Garnet
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -268,6 +281,7 @@ Body:
     Name: Amethyst
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -276,6 +290,7 @@ Body:
     Name: Aquamarine
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -284,6 +299,7 @@ Body:
     Name: Emerald
     Type: Etc
     Buy: 4500
+    Sell: 450
     Weight: 100
     Flags:
       BuyingStore: true
@@ -292,6 +308,7 @@ Body:
     Name: Pearl
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -300,6 +317,7 @@ Body:
     Name: Ruby
     Type: Etc
     Buy: 4500
+    Sell: 450
     Weight: 100
     Flags:
       BuyingStore: true
@@ -308,6 +326,7 @@ Body:
     Name: Cursed Ruby
     Type: Etc
     Buy: 600
+    Sell: 60
     Weight: 100
     Flags:
       BuyingStore: true
@@ -316,6 +335,7 @@ Body:
     Name: Sardonyx
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -324,6 +344,7 @@ Body:
     Name: Sapphire
     Type: Etc
     Buy: 4500
+    Sell: 450
     Weight: 100
     Flags:
       BuyingStore: true
@@ -332,6 +353,7 @@ Body:
     Name: Opal
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -348,6 +370,7 @@ Body:
     Name: Zircon
     Type: Etc
     Buy: 4500
+    Sell: 450
     Weight: 100
     Flags:
       BuyingStore: true
@@ -356,6 +379,7 @@ Body:
     Name: 1carat Diamond
     Type: Etc
     Buy: 7500
+    Sell: 750
     Weight: 100
     Flags:
       BuyingStore: true
@@ -364,6 +388,7 @@ Body:
     Name: 2carat Diamond
     Type: Etc
     Buy: 25000
+    Sell: 2500
     Weight: 100
     Flags:
       BuyingStore: true
@@ -372,6 +397,7 @@ Body:
     Name: 3carat Diamond
     Type: Etc
     Buy: 55000
+    Sell: 5500
     Weight: 100
     Flags:
       BuyingStore: true
@@ -388,6 +414,7 @@ Body:
     Name: Red Frame
     Type: Etc
     Buy: 3000
+    Sell: 300
     Weight: 200
     Flags:
       BuyingStore: true
@@ -404,6 +431,7 @@ Body:
     Name: China
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 300
     Flags:
       BuyingStore: true
@@ -412,6 +440,7 @@ Body:
     Name: Black Ladle
     Type: Etc
     Buy: 400
+    Sell: 200
     Weight: 50
     Flags:
       BuyingStore: true
@@ -428,6 +457,7 @@ Body:
     Name: Rouge
     Type: Etc
     Buy: 10000
+    Sell: 1000
     Weight: 10
     Flags:
       BuyingStore: true
@@ -436,6 +466,7 @@ Body:
     Name: Puppet
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 100
     Flags:
       BuyingStore: true
@@ -444,6 +475,7 @@ Body:
     Name: Poring Doll
     Type: Etc
     Buy: 1800
+    Sell: 180
     Weight: 100
     Flags:
       BuyingStore: true
@@ -452,6 +484,7 @@ Body:
     Name: Chonchon Doll
     Type: Etc
     Buy: 3000
+    Sell: 300
     Weight: 100
     Flags:
       BuyingStore: true
@@ -460,6 +493,7 @@ Body:
     Name: Spore Doll
     Type: Etc
     Buy: 5500
+    Sell: 550
     Weight: 100
     Flags:
       BuyingStore: true
@@ -488,6 +522,7 @@ Body:
     Name: Glass Bead
     Type: Etc
     Buy: 1400
+    Sell: 140
     Weight: 50
     Flags:
       BuyingStore: true
@@ -496,6 +531,7 @@ Body:
     Name: Crystal Mirror
     Type: Etc
     Buy: 15000
+    Sell: 1500
     Weight: 50
     Flags:
       BuyingStore: true
@@ -504,6 +540,7 @@ Body:
     Name: Witherless Rose
     Type: Etc
     Buy: 41250
+    Sell: 4125
     Weight: 10
     Flags:
       BuyingStore: true
@@ -512,6 +549,7 @@ Body:
     Name: Frozen Rose
     Type: Etc
     Buy: 35000
+    Sell: 3500
     Weight: 10
     Flags:
       BuyingStore: true
@@ -520,6 +558,7 @@ Body:
     Name: Baphomet Doll
     Type: Etc
     Buy: 18000
+    Sell: 1800
     Weight: 100
     Flags:
       BuyingStore: true
@@ -528,6 +567,7 @@ Body:
     Name: Osiris Doll
     Type: Etc
     Buy: 14000
+    Sell: 1400
     Weight: 100
     Flags:
       BuyingStore: true
@@ -536,6 +576,7 @@ Body:
     Name: Rocker Doll
     Type: Etc
     Buy: 4000
+    Sell: 400
     Weight: 100
     Flags:
       BuyingStore: true
@@ -544,6 +585,7 @@ Body:
     Name: Yoyo Doll
     Type: Etc
     Buy: 6000
+    Sell: 600
     Weight: 100
     Flags:
       BuyingStore: true
@@ -552,6 +594,7 @@ Body:
     Name: Raccoon Doll
     Type: Etc
     Buy: 5000
+    Sell: 500
     Weight: 100
     Flags:
       BuyingStore: true
@@ -560,6 +603,7 @@ Body:
     Name: Rough Oridecon
     Type: Etc
     Buy: 550
+    Sell: 55
     Weight: 200
     Flags:
       BuyingStore: true
@@ -569,6 +613,7 @@ Body:
     Name: Rough Elunium
     Type: Etc
     Buy: 650
+    Sell: 65
     Weight: 200
     Flags:
       BuyingStore: true
@@ -616,6 +661,7 @@ Body:
     Name: Daenggie
     Type: Etc
     Buy: 260
+    Sell: 26
     Weight: 10
     Flags:
       BuyingStore: true
@@ -672,6 +718,7 @@ Body:
     Name: Spawn
     Type: Etc
     Buy: 140
+    Sell: 14
     Weight: 10
     Flags:
       BuyingStore: true
@@ -704,6 +751,7 @@ Body:
     Name: Zargon
     Type: Etc
     Buy: 480
+    Sell: 48
     Weight: 10
     Flags:
       BuyingStore: true
@@ -784,6 +832,7 @@ Body:
     Name: Orc's Fang
     Type: Etc
     Buy: 220
+    Sell: 22
     Weight: 10
     Flags:
       BuyingStore: true
@@ -792,6 +841,7 @@ Body:
     Name: Evil Horn
     Type: Etc
     Buy: 1200
+    Sell: 120
     Weight: 10
     Flags:
       BuyingStore: true
@@ -832,6 +882,7 @@ Body:
     Name: Immortal Heart
     Type: Etc
     Buy: 374
+    Sell: 37
     Weight: 10
     Flags:
       BuyingStore: true
@@ -840,6 +891,7 @@ Body:
     Name: Rotten Bandage
     Type: Etc
     Buy: 350
+    Sell: 35
     Weight: 10
     Flags:
       BuyingStore: true
@@ -856,6 +908,7 @@ Body:
     Name: Skel-Bone
     Type: Etc
     Buy: 232
+    Sell: 23
     Weight: 10
     Flags:
       BuyingStore: true
@@ -864,6 +917,7 @@ Body:
     Name: Memento
     Type: Etc
     Buy: 600
+    Sell: 60
     Weight: 10
     Flags:
       BuyingStore: true
@@ -871,7 +925,8 @@ Body:
     AegisName: Shell
     Name: Shell
     Type: Etc
-    Buy: 14
+    Buy: 92
+    Sell: 46
     Weight: 10
     Flags:
       BuyingStore: true
@@ -920,6 +975,7 @@ Body:
     Name: Nose Ring
     Type: Etc
     Buy: 568
+    Sell: 56
     Weight: 10
     Flags:
       BuyingStore: true
@@ -1143,8 +1199,9 @@ Body:
     AegisName: Gold
     Name: Gold
     Type: Etc
-    Buy: 150000
-    Weight: 200
+    Buy: 200000
+    Sell: 100000
+    Weight: 0
     Flags:
       BuyingStore: true
   - Id: 970
@@ -27378,6 +27435,7 @@ Body:
     Name: Yellow Bijou
     Type: Etc
     Buy: 887
+    Sell: 88
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27386,6 +27444,7 @@ Body:
     Name: Bloody Page
     Type: Etc
     Buy: 681
+    Sell: 68
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27394,6 +27453,7 @@ Body:
     Name: Skeletal Armor Piece
     Type: Etc
     Buy: 2050
+    Sell: 205
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27571,6 +27631,7 @@ Body:
     Name: Level 6 Cookbook
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27579,6 +27640,7 @@ Body:
     Name: Level 7 Cookbook
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27587,6 +27649,7 @@ Body:
     Name: Level 8 Cookbook
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27595,6 +27658,7 @@ Body:
     Name: Level 9 Cookbook
     Type: Etc
     Buy: 1000
+    Sell: 100
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27924,6 +27988,7 @@ Body:
     Name: Solid Iron Piece
     Type: Etc
     Buy: 842
+    Sell: 84
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27957,6 +28022,7 @@ Body:
     Name: Valhalla's Flower
     Type: Etc
     Buy: 200000
+    Sell: 20000
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27965,6 +28031,7 @@ Body:
     Name: Rune of Darkness
     Type: Etc
     Buy: 2526
+    Sell: 252
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27973,6 +28040,7 @@ Body:
     Name: Burnt Part
     Type: Etc
     Buy: 1600
+    Sell: 160
     Weight: 10
     Flags:
       BuyingStore: true
@@ -27981,6 +28049,7 @@ Body:
     Name: Pocket Watch
     Type: Etc
     Buy: 2564
+    Sell: 256
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28455,6 +28524,7 @@ Body:
     Name: Glacial Heart
     Type: Etc
     Buy: 606
+    Sell: 60
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28463,6 +28533,7 @@ Body:
     Name: Ice Scale
     Type: Etc
     Buy: 3020
+    Sell: 302
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28471,6 +28542,7 @@ Body:
     Name: Bloody Rune
     Type: Etc
     Buy: 2016
+    Sell: 201
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28487,6 +28559,7 @@ Body:
     Name: Sticky Poison
     Type: Etc
     Buy: 350
+    Sell: 35
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28495,6 +28568,7 @@ Body:
     Name: Will of Red Darkness
     Type: Etc
     Buy: 1530
+    Sell: 153
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28503,6 +28577,7 @@ Body:
     Name: Suspicious Hat
     Type: Etc
     Buy: 1290
+    Sell: 129
     Weight: 10
     Flags:
       BuyingStore: true
@@ -28511,6 +28586,7 @@ Body:
     Name: White Mask
     Type: Etc
     Buy: 1060
+    Sell: 106
     Weight: 10
     Flags:
       BuyingStore: true
@@ -29687,6 +29763,7 @@ Body:
     Name: Old White Cloth
     Type: Etc
     Buy: 550
+    Sell: 55
     Weight: 10
     Flags:
       BuyingStore: true
@@ -29695,6 +29772,7 @@ Body:
     Name: Clattering Skull
     Type: Etc
     Buy: 840
+    Sell: 84
     Weight: 10
     Flags:
       BuyingStore: true
@@ -29703,6 +29781,7 @@ Body:
     Name: Broken Farming Utensil
     Type: Etc
     Buy: 330
+    Sell: 33
     Weight: 10
     Flags:
       BuyingStore: true
@@ -29711,6 +29790,7 @@ Body:
     Name: Broken Crown
     Type: Etc
     Buy: 3000
+    Sell: 300
     Weight: 10
     Flags:
       BuyingStore: true
@@ -30134,6 +30214,7 @@ Body:
     Name: Fragment of Darkness
     Type: Etc
     Buy: 500
+    Sell: 50
     Weight: 10
   - Id: 7799
     AegisName: Dark_Crystal
@@ -31375,6 +31456,7 @@ Body:
     Name: Light Granule
     Type: Etc
     Buy: 1500
+    Sell: 150
     Weight: 10
     Flags:
       BuyingStore: true
@@ -31383,6 +31465,7 @@ Body:
     Name: Elder Branch
     Type: Etc
     Buy: 1500
+    Sell: 150
     Weight: 10
     Flags:
       BuyingStore: true
@@ -31858,6 +31941,7 @@ Body:
     Name: Chef King Orleans Vol.1
     Type: Etc
     Buy: 8000
+    Sell: 800
     Weight: 10
     Flags:
       BuyingStore: true
@@ -31866,6 +31950,7 @@ Body:
     Name: Kafra Legend Vol.1
     Type: Etc
     Buy: 8000
+    Sell: 800
     Weight: 10
     Flags:
       BuyingStore: true
